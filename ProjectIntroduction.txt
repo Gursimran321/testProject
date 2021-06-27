@@ -10,3 +10,17 @@ highlighting their mistakes and provide them guidance to end up with a successfu
 will have a totally innovative and applicable idea and expert is also agree, then he can directly offer him job in his company or refer
  his name for a position. By this, talented and competent individuals from low backgrounds and small colleges can get top level positions
  in multinational organizations because of their abilities and hard-work.
+
+Project Functions :
+
+Experts from different fields can create their accounts.
+
+Students/Job-seekers and other talented individuals can create their accounts
+
+Search feature by which individuals can search an expert as their interviewer.
+
+A secure fees payment method by which user can pay fees to experts.
+
+Virtual face to face interaction by video calling feature.
+
+Apply filters to find a perfect expert of a field.
